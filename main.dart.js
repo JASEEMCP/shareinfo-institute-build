@@ -103994,7 +103994,7 @@ s($,"aXL","aAH",()=>{var q,p=null,o=$.aIO(),n=A.a8(A.aLD().a,!0,t._Y),m=$.aIP()
 n.push(A.dR(p,new A.a12(),m,"/",B.bh))
 q=t.yo
 n.push(A.aFc(new A.a13(),m,A.b([A.dR(p,new A.a14(),m,"/dashboard",B.bh),A.dR(p,new A.a17(),m,"/create",B.bh),A.dR(p,new A.a18(),m,"/drives",A.b([A.dR(p,new A.a19(),m,"detail",A.b([A.dR(p,new A.a1a(),m,"edit",B.bh)],q))],q)),A.dR(p,new A.a1b(),m,"/verify_student",B.bh),A.dR(p,new A.a1c(),m,"/student",A.b([A.dR(p,new A.a1d(),m,"candidate-list",A.b([A.dR(p,new A.a1e(),m,"student-detail",B.bh)],q))],q)),A.dR(p,new A.a15(),m,"/settings",A.b([A.dR(p,new A.a16(),m,"reset-password",B.bh)],q))],q)))
-return A.aO6(!1,p,p,p,p,"/",o,p,p,!1,p,!0,p,!1,new A.Sp(new A.afs(n,A.aXe(),10)))})
+return A.aO6(!1,p,p,p,p,"/login",o,p,p,!1,p,!0,p,!1,new A.Sp(new A.afs(n,A.aXe(),10)))})
 s($,"aYp","axq",()=>A.rd(A.b([],A.ay("w<iT>"))))
 s($,"aYq","aAN",()=>A.awJ())
 s($,"aYr","aAO",()=>A.awJ())
